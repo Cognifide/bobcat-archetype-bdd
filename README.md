@@ -3,7 +3,7 @@
 # Bobcat Archetype BDD
 
 ## Summary 
-This project is Maven archetype for Bobcat using BDD Test. It contains simple test and hooks for actions required on beginning and end of test.
+This project is Maven archetype for Bobcat using BDD tests. It contains simple test and hooks for actions required on beginning and end of test.
 
 ## Prerequisites
 * JDK 8
