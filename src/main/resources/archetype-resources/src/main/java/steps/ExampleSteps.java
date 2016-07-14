@@ -12,8 +12,8 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import cucumber.runtime.java.guice.ScenarioScoped;
-import ${package}.pageobjects.example.DefinitionPage;
-import ${package}.pageobjects.example.WikipediaPage;
+import ${package}.pageobjects.DefinitionPage;
+import ${package}.pageobjects.WikipediaPage;
 
 @ScenarioScoped
 public class ExampleSteps {

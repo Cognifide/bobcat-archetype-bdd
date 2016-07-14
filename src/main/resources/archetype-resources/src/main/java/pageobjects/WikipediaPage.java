@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.pageobjects.example;
+package ${package}.pageobjects;
 
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;

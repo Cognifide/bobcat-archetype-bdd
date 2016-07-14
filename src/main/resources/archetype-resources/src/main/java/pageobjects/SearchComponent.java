@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.pageobjects.example;
+package ${package}.pageobjects;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -9,12 +9,13 @@ import org.openqa.selenium.support.FindBy;
 import com.cognifide.qa.bb.qualifier.PageObject;
 
 @PageObject
-public class DefinitionPage {
+public class SearchComponent {
 
-  @FindBy(id = "firstHeading")
-  private WebElement heading;
+  @FindBy(css = "input[type=search]")
+  private WebElement searchField;
 
-  public String getHeading() {
-    return heading.getText();
+  public void searchForQuery(String query) {
+    searchField.sendKeys(query);
+    searchField.submit();
   }
 }
