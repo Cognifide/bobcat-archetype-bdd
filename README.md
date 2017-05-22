@@ -14,7 +14,7 @@ This project is Maven archetype for Bobcat using BDD tests. It contains simple t
 mvn archetype:generate \
         -DarchetypeGroupId=com.cognifide.qa.bb \
         -DarchetypeArtifactId=bobcat-archetype-bdd \
-        -DarchetypeVersion=1.0.0 \
+        -DarchetypeVersion=1.0.1 \
 ```
 Example properties for archetype
 ```
