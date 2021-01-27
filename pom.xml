@@ -9,11 +9,11 @@
 
     <name>bobcat-archetype-bdd</name>
     <description>BDD Bobcat archetype</description>
-    <url>https://github.com/Cognifide/bobcat-archetype-bdd</url>
+    <url>https://github.com/wttech/bobcat-archetype-bdd</url>
     <inceptionYear>2016</inceptionYear>
 
     <organization>
-        <name>Cognifide Ltd.</name>
+        <name>Wunderman Thompson Technology</name>
         <url>http://www.cognifide.com</url>
     </organization>
 
@@ -32,10 +32,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:Cognifide/bobcat-archetype-bdd.git</connection>
-        <developerConnection>scm:git:git@github.com:Cognifide/bobcat-archetype-bdd.git</developerConnection>
+        <connection>scm:git:git@github.com:wttech/bobcat-archetype-bdd.git</connection>
+        <developerConnection>scm:git:git@github.com:wttech/bobcat-archetype-bdd.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/Cognifide/bobcat-archetype-bdd</url>
+        <url>https://github.com/wttech/bobcat-archetype-bdd</url>
     </scm>
 
     <distributionManagement>

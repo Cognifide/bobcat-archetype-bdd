@@ -1,5 +1,5 @@
-![Cognifide logo](http://cognifide.github.io/images/cognifide-logo.png)
-# This archetype is deprecated please use https://github.com/Cognifide/bobcat-gradle-template
+![WTT logo](docs/wtt-logo.png)
+# This archetype is deprecated please use https://github.com/wttech/bobcat-gradle-template
 # Bobcat Archetype BDD
 
 ## Summary 
